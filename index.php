@@ -2,7 +2,7 @@
 <head>
 </head>
 <body>
-<style="background-color:0xACDBCE;">
+<style="background-color:#ACDBCE;">
 
 <img src="back.jpg">
 </body>
