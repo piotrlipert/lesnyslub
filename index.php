@@ -6,7 +6,7 @@
 
 <div style="text-align: center;">
 </div>
-<IMG SRC="img/1.png" ALT="image" style="max-width:100%;height:auto;>
+<IMG SRC="img/1.png" ALT="image" style="max-width:100%;height:auto;">
 
 
 
