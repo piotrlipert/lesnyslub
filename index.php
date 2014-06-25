@@ -11,7 +11,7 @@
 <div style="text-align:center">
 <IMG SRC="img/1.png" ALT="image" style="max-width:100%;height:auto;">
 </div>
-<form action="lis.php">
+<form action="scripts/sm.php">
 
 <div style="text-align:center;height:30%">
 	<div style="float:left;margin:0;position:relative;left:18%;">
@@ -19,7 +19,7 @@
 		<img src="img/2.png" ALT="image" style="max-width:100%;height:auto;">
 		</div>
 		<div>
-		<input type="text"  style="max-width:100%;height:20%;width:100%">
+		<input type="text" name='message' style="max-width:100%;height:20%;width:100%">
 		</div>
 		<div>	
 		<img src="img/6.png" ALT="image" style="max-width:100%;height:auto;">
@@ -39,18 +39,12 @@
 
 </div>
 
-<div style="text-align:center">
 
-<img src="img/7.png" ALT="image" style="max-width:100%;height:auto;">
-
-
-</div>
 <div style="text-align:center;>
 
 <img src="img/5.png" ALT="image" style="max-width:100%;height:auto;">
 
 </div>
-
 
 
 
