@@ -59,7 +59,7 @@
 </div>
 
 <br>
-<div style="text-align:center;>
+<div style="text-align:center;">
 
 <img src="img/5.png" ALT="image" style="max-width:100%;">
 
