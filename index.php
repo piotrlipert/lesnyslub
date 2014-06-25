@@ -1,7 +1,7 @@
 
 <head>
 	<meta http-equiv="Content-Language" content="pl" />
-<meta http-equiv="Content-type" content="text/html; charset=ISO-8859-2" />
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
 
 <title>Leśny ślub Sawy i Piotrka </title>
 </head>
