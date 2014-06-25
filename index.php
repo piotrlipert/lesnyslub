@@ -19,13 +19,13 @@
 
 <div style="text-align:center;height:30%">
 	<div style="float:left;vertical-align:middle;">
-		<div style="float:left;">
+		<div style="">
 		<img src="img/2.png" ALT="image" style="max-width:100%;height:auto;">
 		</div>
-		<div style="float:left;">
+		<div style="">
 		<input type="text" name='message' style="max-width:100%;height:20%;width:100%">
 		</div>
-		<div style="float:left;">	
+		<div style="">	
 		<img src="img/6.png" ALT="image" style="max-width:100%;height:auto;">
 		</div>
 	</div>
