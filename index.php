@@ -4,6 +4,10 @@
 <meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
 
 <title>Leśny ślub Sawy i Piotrka </title>
+
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>  
+    <script src="scripts/formscript.js"></script>
+
 </head>
 
 <body style="background-color:#ACDBCE;">
@@ -11,7 +15,7 @@
 <div style="text-align:center">
 <IMG SRC="img/1.png" ALT="image" style="max-width:100%;height:auto;">
 </div>
-<form action="scripts/sm.php">
+<form action="scripts/sm.php" method="POST" name="contactform">
 
 <div style="text-align:center;height:30%">
 	<div style="float:left;margin:0;position:relative;left:18%;">
@@ -33,6 +37,14 @@
 </div>
 	</form>
 
+	      <div id="loading" style="display: none;"> 
+    Sending your message....
+    </div>
+  <div id="success" style="display: none;">
+    Message sent.
+  </div>
+	
+	
 <div style="text-align:center;background-color: #000000;">
 
 <img src="img/4.png" ALT="image" style="max-width:100%;height:auto;">
