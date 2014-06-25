@@ -37,10 +37,10 @@
 </div>
 	</form>
 
-	      <div id="loading" style="display: none;"> 
+	      <div id="loading" style="display: none;text-align:center;"> 
     Sending your message....
     </div>
-  <div id="success" style="display: none;">
+  <div id="success" style="display: none;text-align:center;">
     Message sent.
   </div>
 	
