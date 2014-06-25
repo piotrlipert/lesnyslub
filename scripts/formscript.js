@@ -5,8 +5,7 @@
         if(thisForm.attr('name') != 'contactform')
           return;
         e.preventDefault();
-        //Hide the form
-        $(this).fadeOut(function(){
+       
           //Display the "loading" message
           $("#loading").fadeIn(function(){
             //Post the form to the send script
@@ -25,6 +24,6 @@
               }
             });
           });
-        });
+        
       })
     });
