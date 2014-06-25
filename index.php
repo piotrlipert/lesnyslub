@@ -46,18 +46,14 @@
 	
 <div style="text-align:center;background-color: #000000;">
 
-<div>
 <img src="img/dule.png" ALT="image" style="max-width:100%;height:auto;">
-</div>
-<div>
+
 
 <img src="img/tree.png" ALT="image" style="max-width:100%;height:auto;">
-</div>
 
-<div>
+
 
 <img src="img/uno.png" ALT="image" style="max-width:100%;height:auto;">
-</div>
 
 
 </div>
