@@ -38,11 +38,8 @@
 	</form>
 
 	      <div id="loading" style="display: none;text-align:center;"> 
-    Sending your message....
+    Potwierdzono!
     </div>
-  <div id="success" style="display: none;text-align:center;">
-    Message sent.
-  </div>
   
   <br><br>
 	
