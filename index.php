@@ -18,19 +18,19 @@
 <form action="scripts/sm.php" method="POST" name="contactform">
 
 <div style="text-align:center;height:30%">
-	<div style="float:left;margin:0;position:relative;left:18%;">
-		<div>
+	<div style="float:left;vertical-align:middle;">
+		<div style="float:left;">
 		<img src="img/2.png" ALT="image" style="max-width:100%;height:auto;">
 		</div>
-		<div>
+		<div style="float:left;">
 		<input type="text" name='message' style="max-width:100%;height:20%;width:100%">
 		</div>
-		<div>	
+		<div style="float:left;">	
 		<img src="img/6.png" ALT="image" style="max-width:100%;height:auto;">
 		</div>
 	</div>
 
-		<div style="float:left;margin:0;position:relative;top:37%;left:18%; ">
+		<div style="float:left;vertical-align:middle; ">
 				<input type="image" src="img/3.png" alt="Submit">
 
 		</div>
