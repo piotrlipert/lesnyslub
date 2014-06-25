@@ -11,7 +11,7 @@
 <div style="text-align:center">
 <IMG SRC="img/1.png" ALT="image" style="max-width:100%;height:auto;">
 </div>
-<form>
+<form action="lis.php">
 
 <div style="text-align:center;height:30%">
 	<div style="float:left;margin:0;position:relative;left:18%;">
