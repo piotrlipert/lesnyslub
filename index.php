@@ -42,14 +42,9 @@
 
 
 </div>
-<div style="text-align:center;position:relative;top:10%;">
-<span style="position:absolute;top:50%;">
-80 DNI
-</span>
+<div style="text-align:center;>
 
-<span style="position:relative;left:10%;">
 <img src="img/5.png" ALT="image" style="max-width:100%;height:auto;">
-</span>
 
 </div>
 
