@@ -16,27 +16,23 @@
 <IMG SRC="img/1.png" ALT="image" style="max-width:100%;height:auto;">
 </div>
 <form action="scripts/sm.php" method="POST" name="contactform">
-
-<div style="text-align:center;height:30%">
-	<div style="float:left;vertical-align:middle;">
-		<div style="">
-		<img src="img/2.png" ALT="image" style="max-width:100%;height:auto;">
-		</div>
-		<div style="">
-		<input type="text" name='message' style="max-width:100%;height:20%;width:100%">
-		</div>
-		<div style="">	
-		<img src="img/6.png" ALT="image" style="max-width:100%;height:auto;">
-		</div>
-	</div>
-
-		<div style="float:left;vertical-align:middle; ">
-				<input type="image" src="img/3.png" alt="Submit">
-
-		</div>
-</div>
+		<div style="text-align:center;margin-left:20%;margin-right:20%;width:60%">
+		<table style="text-align:center">
+		<tr>
+		<td style="width:600px">
+		<img src="img/2.png" ALT="image" style="display:inline-block">
+		<br>
+		<input type="text" name='message' style="display:inline-block;width:100%">
+		<br>
+		<img src="img/6.png" ALT="image" style="display:inline-block;vertical-align:middle">
+		</td>
+		<td style="display:inline-block;vertical-align:middle">
+		<input type="image" src="img/3.png" alt="Submit" style="display:inline-block">
+		</td>
+		</tr>
+		</table>
 	</form>
-
+	</div>
 	      <div id="loading" style="display: none;text-align:center;"> 
     <b>Potwierdzono!</b>
     </div>
@@ -44,7 +40,7 @@
   <br><br>
 	
 	
-<div style="text-align:center;background-color: #000000;vertical-align:middle">
+<div style="text-align:center;background-color: #000000;">
 
 <a href="https://www.google.com/maps/dir/Zosia.+Dom+wycieczkowy,+32-047+Ojc%C3%B3w;+Z%C5%82ota+G%C3%B3ra+4,+Polska/Willa+Decjusza,+Ul.+28+Lipca+1943,+Kr%C4%85k%C3%B3w,+Polska/@50.1465064,19.7868173,12z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x4716f8bb7fd4899b:0x58ccb62c91df8d6d!2m2!1d19.818112!2d50.211315!1m5!1m1!1s0x47165be6772736c3:0x3ed0468dd04aa42f!2m2!1d19.871778!2d50.062924"><img src="img/dule.png" ALT="image" style="max-width:100%;height:auto;"></a>
 
